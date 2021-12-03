@@ -1,5 +1,5 @@
 //credit: Bzikarius (twitter: @Tixzel)
-Dict
+Dict ты лох
 "2D/3D Shape"="2D/3D форма"
 "4/8 Neighbor Searching Direction"="4/8 направлений поиска соседей"
 "ACES Filmic Tone Mapping"="ACES Filmic тонирование"
